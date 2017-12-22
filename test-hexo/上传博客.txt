@@ -1,0 +1,6 @@
+https://www.appinn.com/markdown/     markdown语法
+
+上传博客的方法
+先 hexo g 生成静态文件
+再 hexo d 发布到github上
+再 hexo clean 清除缓存
